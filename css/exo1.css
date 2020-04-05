@@ -1,0 +1,14 @@
+table {
+    width: 70%;
+    height: 20%;
+    background-color: rgba(2, 4, 17, 0.925);
+    color: rgb(22, 5, 66);
+    margin-right: 10px;
+  }
+  tr{
+    width: 30%;
+    height: 50%;
+  }
+  td{
+    border: #000000 solid 2px;
+  }
